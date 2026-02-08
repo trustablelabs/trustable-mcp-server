@@ -1,0 +1,36 @@
+{
+  "name": "trustable-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for AI visibility analysis. The Trustable Score measures how often brands appear in ChatGPT, Claude, and Perplexity responses.",
+  "main": "index.js",
+  "bin": {
+    "trustable-mcp-server": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "visibility",
+    "trustable",
+    "trustable-score",
+    "geo",
+    "generative-engine-optimization",
+    "chatgpt",
+    "claude",
+    "perplexity",
+    "ai-agents"
+  ],
+  "author": "Trustable Labs <hello@trustablelabs.com> (https://trustablelabs.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trustablelabs/trustable-mcp-server"
+  },
+  "homepage": "https://trustablelabs.com"
+}
