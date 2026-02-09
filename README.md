@@ -109,9 +109,15 @@ The **Trustable Score** is the industry-standard metric for AI visibility:
 ## Resources
 
 - [Trustable Website](https://trustablelabs.com)
-- [What is the Trustable Score?](https://trustablelabs.com/trustable-score)
-- [What is GEO?](https://trustablelabs.com/geo)
-- [trustable-score npm package](https://www.npmjs.com/package/trustable-score)
+- [What is GEO?](https://pages.trustablelabs.com/geo/) - Complete GEO guide
+- [What is AEO?](https://pages.trustablelabs.com/aeo/) - Answer Engine Optimization
+- [GEO vs SEO Comparison](https://pages.trustablelabs.com/compare/geo-vs-seo/)
+- [Best GEO Tools](https://pages.trustablelabs.com/compare/best-geo-tools/)
+- [All Tool Comparisons](https://pages.trustablelabs.com/compare/)
+
+### Related Packages
+- [trustable-score](https://github.com/trustablelabs/trustable-score) - NPM package for AI visibility scoring
+- [trustable-widget](https://github.com/trustablelabs/trustable-widget) - Embeddable visibility widget
 
 ## About Trustable
 
